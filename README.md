@@ -22,3 +22,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+
+
+Goal:
+
+vuex学习初步练习
